@@ -1,0 +1,21 @@
+.about-me {
+  padding: 30px;
+  display: grid;
+  grid-template-columns: 30% 70%;
+}
+
+.about-me-img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-me-img img {
+  width: 83%;
+  border-radius: 2em;
+}
+
+.about-me-details p {
+  color: white;
+}
