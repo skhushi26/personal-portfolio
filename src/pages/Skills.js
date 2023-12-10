@@ -9,15 +9,13 @@ const Skills = () => {
         <div className="list">
           <li className="item">
             <h2> Front-End</h2>
-            <span>
-              ReactJS, HTML, CSS, NPM, BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents
-            </span>
+            <span>ReactJS, HTML5, CSS3, BootStrap, MaterialUI, Tailwind CSS, Ant Design</span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
             <span>
-              NodeJS, NestJS, ExpressJS, GraphQL, ApolloServer, Basic Knowledge of AWS,
-              MySQL,MongoDB, Java, .NET, PHP, Python
+              NodeJS, NestJS, ExpressJS, GraphQL, MySQL, MongoDB, Java, .NET Core, PHP, Python,
+              Basic Knowledge of AWS
             </span>
           </li>
           <li className="item">
