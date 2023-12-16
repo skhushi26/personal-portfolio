@@ -18,7 +18,6 @@ function App() {
           <Route path="/experience" element={<Experience />} />
           <Route path="/skills" element={<Skills />} />
         </Routes>
-        {/* <Footer /> */}
       </Router>
     </div>
   );
