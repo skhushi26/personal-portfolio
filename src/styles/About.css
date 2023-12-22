@@ -1,3 +1,7 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .about-me {
   padding: 30px;
   display: grid;
@@ -14,6 +18,12 @@
 .about-me-img img {
   width: 83%;
   border-radius: 2em;
+}
+
+.about-me-details {
+  border-radius: 8px;
+  background-color: #56699d5e;
+  padding: 10px;
 }
 
 .about-me-details p {

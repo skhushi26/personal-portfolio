@@ -1,7 +1,11 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .home {
   width: 100%;
   align-items: center;
-  font-family: "Arial", sans-serif;
+  /* font-family: "Arial", sans-serif; */
   color: #3e497a;
 }
 
@@ -17,7 +21,7 @@
 }
 
 .about h2 {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
   font-size: 60px;
   color: #e9d35b;
   height: 50px;
@@ -26,4 +30,14 @@
 .about .prompt {
   width: 60%;
   font-size: 20px;
+}
+
+.about-btn {
+  width: 20%;
+  background-color: #e9d35b;
+}
+
+.about-btn:hover {
+  background-color: white;
+  color: #3e497a;
 }

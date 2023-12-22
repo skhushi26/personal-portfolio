@@ -1,4 +1,12 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .skills {
   display: flex;
   justify-content: center;
+}
+
+h5 {
+  font-weight: 700;
 }
