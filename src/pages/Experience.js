@@ -16,23 +16,11 @@ function Experience() {
           <h4 className="vertical-timeline-element-subtitle">Post Graduate Diploma</h4>
           <p> Web Development</p>
         </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--education"
-          date="Aug 2017 - May 2021"
-          iconStyle={{ background: "#e9d35b", color: "#fff" }}
-          //   icon={<SchoolIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">Indus University</h3>
 
-          <h4 className="vertical-timeline-element-subtitle">Bachelor's Degree</h4>
-
-          <p> Computer Science & Engineering</p>
-        </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           date="Jan 2021 - Feb 2022"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
-          //   icon={<WorkIcon />}
+          iconStyle={{ background: "#e9d35b", color: "#fff" }}
         >
           <h3 className="vertical-timeline-element-title">Jr. NodeJS Developer</h3>
           <h4 className="vertical-timeline-element-subtitle">Technostacks Infotech Pvt. Ltd.</h4>
@@ -40,6 +28,17 @@ function Experience() {
             I specialize in MERN stack development, crafting dynamic web applications with precision
             and creativity.
           </p>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="Aug 2017 - May 2021"
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
+        >
+          <h3 className="vertical-timeline-element-title">Indus University</h3>
+
+          <h4 className="vertical-timeline-element-subtitle">Bachelor's Degree</h4>
+
+          <p> Computer Science & Engineering</p>
         </VerticalTimelineElement>
       </VerticalTimeline>
     </div>

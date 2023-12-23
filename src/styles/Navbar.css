@@ -28,6 +28,10 @@
   color: #e9d35b;
 }
 
+a:active {
+  color: #e9d35b;
+}
+
 .toggleButton {
   width: 100%;
   height: 100px;
@@ -39,6 +43,7 @@
 .toggleButton svg {
   font-size: 50px;
 }
+
 .toggleButton button {
   margin-right: 20px;
   background-color: transparent;
