@@ -41,3 +41,35 @@
   background-color: white;
   color: #3e497a;
 }
+
+@media (max-width: 481px) {
+  .about h2 {
+    font-size: 45px;
+    height: 77px;
+  }
+
+  .about .prompt {
+    width: 90%;
+    font-size: 18px;
+  }
+
+  .about-btn {
+    width: 41%;
+  }
+}
+
+@media (min-width: 961px) {
+  .about h2 {
+    font-size: 52px;
+    height: 90px;
+  }
+
+  .about .prompt {
+    width: 71%;
+    font-size: 25px;
+  }
+
+  .about-btn {
+    width: 30%;
+  }
+}

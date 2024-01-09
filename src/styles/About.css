@@ -30,3 +30,13 @@
   color: white;
   text-align: start;
 }
+
+@media (max-width: 481px) {
+  .about-me {
+    display: block;
+  }
+
+  .about-me-img img {
+    margin-bottom: 2em;
+  }
+}
